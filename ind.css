@@ -1,0 +1,32 @@
+body{
+    background-image: url(img/bgg.png);
+    background-size: cover;
+}
+
+.menu {
+    float: left;
+    width: 20%;
+    text-align: center;
+  }
+  
+.menu a {
+    background: orange;
+    padding: 8px;
+    margin-top: 7px;
+    display: block;
+    width: 100%;
+    color: black;
+  }
+
+  h1,h2{
+    color: orange;
+  }
+
+
+ a{
+  text-decoration: none  ;
+ }
+
+ div{
+  text-align: center;
+ }
